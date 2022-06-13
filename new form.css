@@ -1,0 +1,51 @@
+h2{
+    font-size:large;
+    box-align: center;
+    font-style: italic ;
+    
+    
+}
+body{
+    border-color:blue;
+    border-style: inset;
+    margin: 10;
+    margin: 200px;
+    padding: 20;
+    text-align:calc(20);
+    text-shadow: 10;
+    font-size: large;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1)
+    width=cubic-bezier(0.075, 0.82, 0.165, 1)
+
+}
+
+button{
+    color: chartreuse;
+     size: 100;
+     border-color: blue;
+     font-size: large;
+     border-radius: 20;
+     text-decoration-color:red;
+}
+h1{
+    text-align: center;
+    font-style:oblique;
+    text-decoration-line: underline;
+    
+}
+p{
+    text-size-adjust: 10;
+    font-size:xx-large;
+    font-style: italic;
+}
+*{
+    border-color:green;
+    border-radius: 10px;
+    border-width: 10px;
+    box-shadow: green;
+    
+    
+}
+h1:hover{
+    color:aqua;
+}
